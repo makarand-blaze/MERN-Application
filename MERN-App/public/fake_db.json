@@ -1,0 +1,11 @@
+{
+  "StudentId":"",
+  "StudentName": "",
+  "CourseSelection": ["CSE","IT","MECH","CIVIL","ECE","FIRE"],
+  "SelectedCourse": [],
+  "UniversityOptions": ["Pune","Indore","Mumbai","Chennai"],
+  "UniversitySelection": "",
+  "YearOptions": ["First","Second","Third","Fourth"],
+  "YearSelection": [],
+  "description": ""
+}
